@@ -2097,3 +2097,4 @@ java.lang.IllegalArgumentException: Invalid character found in method name [0x16
 2023-04-21 09:26:41.849  INFO 12028 --- [http-nio-8080-exec-9] c.s.controllers.StoryBlogController      : [ getStories method {} ]
 2023-04-21 09:27:11.723  INFO 12028 --- [http-nio-8080-exec-4] c.s.controllers.StoryBlogController      : [ getStories method {} ]
 2023-04-21 09:27:34.709  INFO 12028 --- [http-nio-8080-exec-6] c.s.controllers.StoryBlogController      : [ getStories method {} ]
+2023-04-21 10:47:18.700  WARN 12028 --- [http-nio-8080-exec-1] o.s.web.servlet.PageNotFound             : No mapping for GET /favicon.ico
